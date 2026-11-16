@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Café">
+  <title>Café</title>
+  <defs>
+    <clipPath id="tile">
+      <rect width="256" height="256" rx="56"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#tile)">
+    <rect width="256" height="256" fill="#1a1714"/>
+    <path d="M98 58 C86 72 110 82 98 98" fill="none" stroke="#6f675a" stroke-width="8" stroke-linecap="round"/>
+    <path d="M130 50 C118 66 142 78 130 96" fill="none" stroke="#6f675a" stroke-width="8" stroke-linecap="round"/>
+    <path d="M162 58 C150 72 174 82 162 98" fill="none" stroke="#6f675a" stroke-width="8" stroke-linecap="round"/>
+    <path d="M176 136 h12 a22 22 0 0 1 0 44 h-14" fill="none" stroke="#ece4d4" stroke-width="12"/>
+    <path d="M66 118 H186 V158 C186 190 162 206 126 206 C90 206 66 190 66 158 Z" fill="#ece4d4"/>
+    <ellipse cx="126" cy="122" rx="56" ry="9" fill="#e0a73c"/>
+    <rect x="44" y="214" width="168" height="10" rx="5" fill="#4a4237"/>
+  </g>
+  <rect x="2" y="2" width="252" height="252" rx="54" fill="none" stroke="#4a4237" stroke-width="4"/>
+</svg>

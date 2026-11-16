@@ -1,0 +1,16 @@
+{
+  "name": "cafe",
+  "displayName": "Café",
+  "version": "1.0.0",
+  "description": "A warm espresso dark theme for Atlas: espresso grounds, cream text and state colors tuned to sit on that dark.",
+  "author": {
+    "name": "JoaoEquer"
+  },
+  "license": "MIT",
+  "atlas": {
+    "api": 24,
+    "themes": [
+      "cafe"
+    ]
+  }
+}

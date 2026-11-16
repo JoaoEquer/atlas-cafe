@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1224" height="128" viewBox="0 0 1224 128" role="img" aria-label="Café palette: background, sidebar, dialogs, chips, selected, text, working, waiting, done, failed">
+<rect width="1224" height="128" rx="12" fill="#1a1714"/>
+<rect x="16" y="16" width="112" height="96" rx="8" fill="#1a1714" stroke="#ece4d4" stroke-opacity="0.14"/>
+<text x="26" y="42" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#ece4d4">Background</text>
+<text x="26" y="98" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#ece4d4" fill-opacity="0.85">#1a1714</text>
+<rect x="136" y="16" width="112" height="96" rx="8" fill="#211d19" stroke="#ece4d4" stroke-opacity="0.14"/>
+<text x="146" y="42" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#ece4d4">Sidebar</text>
+<text x="146" y="98" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#ece4d4" fill-opacity="0.85">#211d19</text>
+<rect x="256" y="16" width="112" height="96" rx="8" fill="#24201b" stroke="#ece4d4" stroke-opacity="0.14"/>
+<text x="266" y="42" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#ece4d4">Dialogs</text>
+<text x="266" y="98" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#ece4d4" fill-opacity="0.85">#24201b</text>
+<rect x="376" y="16" width="112" height="96" rx="8" fill="#2b2620" stroke="#ece4d4" stroke-opacity="0.14"/>
+<text x="386" y="42" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#ece4d4">Chips</text>
+<text x="386" y="98" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#ece4d4" fill-opacity="0.85">#2b2620</text>
+<rect x="496" y="16" width="112" height="96" rx="8" fill="#3a3229" stroke="#ece4d4" stroke-opacity="0.14"/>
+<text x="506" y="42" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#ece4d4">Selected</text>
+<text x="506" y="98" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#ece4d4" fill-opacity="0.85">#3a3229</text>
+<rect x="616" y="16" width="112" height="96" rx="8" fill="#ece4d4" stroke="#ece4d4" stroke-opacity="0.14"/>
+<text x="626" y="42" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#1a1714">Text</text>
+<text x="626" y="98" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#1a1714" fill-opacity="0.85">#ece4d4</text>
+<rect x="736" y="16" width="112" height="96" rx="8" fill="#7aaee8" stroke="#ece4d4" stroke-opacity="0.14"/>
+<text x="746" y="42" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#1a1714">Working</text>
+<text x="746" y="98" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#1a1714" fill-opacity="0.85">#7aaee8</text>
+<rect x="856" y="16" width="112" height="96" rx="8" fill="#e0a73c" stroke="#ece4d4" stroke-opacity="0.14"/>
+<text x="866" y="42" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#1a1714">Waiting</text>
+<text x="866" y="98" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#1a1714" fill-opacity="0.85">#e0a73c</text>
+<rect x="976" y="16" width="112" height="96" rx="8" fill="#4fb3a6" stroke="#ece4d4" stroke-opacity="0.14"/>
+<text x="986" y="42" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#1a1714">Done</text>
+<text x="986" y="98" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#1a1714" fill-opacity="0.85">#4fb3a6</text>
+<rect x="1096" y="16" width="112" height="96" rx="8" fill="#e26a5c" stroke="#ece4d4" stroke-opacity="0.14"/>
+<text x="1106" y="42" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#1a1714">Failed</text>
+<text x="1106" y="98" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#1a1714" fill-opacity="0.85">#e26a5c</text>
+</svg>
